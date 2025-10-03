@@ -3,7 +3,6 @@
 int main()
 {
 	printf("Welcome to our new number guesser game...");
-		printf("Welcome to our new number guesser game...");
 	return 0;
 }
 
