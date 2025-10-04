@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Welcome to our new number guesser game...");s
+	printf("Welcome to our new number guesser game...");
 	return 0;
 }
 
